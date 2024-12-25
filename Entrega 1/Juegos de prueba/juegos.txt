@@ -1,0 +1,419 @@
+Juego de Prueba CtrlDomainDriver(Gestión de Similitudes):
+
+Opción 1: Registrar Usuario
+Nombre completo: Usuario1
+Nombre de Usuario: usuario1
+Contraseña: usu1
+	Output: Usuario registrado exitosamente.
+
+Opción 2: Iniciar Sesión de Usuario
+Nombre de Usuario: usuario1
+Contraseña: usu1
+	Output: Inicio de sesión exitoso.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: kiwi
+Precio del producto: 5
+	Output: Producto añadido exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: platano
+Precio del producto: 3
+	Output: Producto añadido exitosamente.
+
+Opción 19: Establecer Similitud entre Productos
+Nombre Producto 1: kiwi
+Nombre Producto 2: platano
+Similitud (0 a 1): 1
+	Output: Similitud establecida exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: fresa
+Precio del producto: 7
+	Output: Producto añadido exitosamente.
+
+Opción 19: Establecer Similitud entre Productos
+Nombre Producto 1: kiwi
+Nombre Producto 2: fresa
+Similitud (0 a 1): 0.01
+	Output: Similitud establecida exitosamente.
+
+Opción 20: Obtener Similitud entre Productos
+Nombre Producto 1: platano
+Nombre Producto 2: kiwi
+	Output: Similitud: 1.0
+
+Opción 20: Obtener Similitud entre Productos
+Nombre Producto 1: kiwi
+Nombre Producto 2: fresa
+	Output: Similitud: 0.01
+
+Opción 21: Eliminar Similitud entre Productos
+Nombre Producto 1: kiwi
+Nombre Producto 2: platano
+	Output: Similitud eliminada exitosamente.
+
+Opción: 20
+Nombre Producto 1: platano
+Nombre Producto 2: kiwi
+	Output: Similitud: 0.0
+
+
+Opción 1: Registrar Usuario
+Nombre completo: Usuario7
+Nombre de Usuario: usuario7
+Contraseña: usu7
+Output: Usuario registrado exitosamente.
+
+Opción 2: Iniciar Sesión de Usuario
+Nombre de Usuario: usuario7
+Contraseña: usu7
+Output: Inicio de sesión exitoso.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: durazno
+Precio del producto: 4
+Output: Producto añadido exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: frambuesa
+Precio del producto: 6
+Output: Producto añadido exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: mora
+Precio del producto: 7
+Output: Producto añadido exitosamente.
+
+Opción 19: Establecer Similitud entre Productos
+Nombre Producto 1: durazno
+Nombre Producto 2: frambuesa
+Similitud (0 a 1): 0.7
+Output: Similitud establecida exitosamente.
+
+Opción 19: Establecer Similitud entre Productos
+Nombre Producto 1: frambuesa
+Nombre Producto 2: mora
+Similitud (0 a 1): 0.9
+Output: Similitud establecida exitosamente.
+
+Opción 20: Obtener Similitud entre Productos
+Nombre Producto 1: durazno
+Nombre Producto 2: mora
+Output: Similitud: 0.0 (Similitud no establecida).
+
+Opción 21: Eliminar Similitud entre Productos
+Nombre Producto 1: frambuesa
+Nombre Producto 2: mora
+Output: Similitud eliminada exitosamente.
+
+
+
+Juego de Prueba CtrlDomainDriver(Gestión de Similitudes):
+
+Opción 1: Registrar Usuario
+Nombre completo: Usuario1
+Nombre de Usuario: usuario1
+Contraseña: usu1
+	Output: Usuario registrado exitosamente.
+
+Opción 2: Iniciar Sesión de Usuario
+Nombre de Usuario: usuario1
+Contraseña: usu1
+	Output: Inicio de sesión exitoso.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: kiwi
+Precio del producto: 5
+	Output: Producto añadido exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: platano
+Precio del producto: 3
+	Output: Producto añadido exitosamente.
+
+Opción 19: Establecer Similitud entre Productos
+Nombre Producto 1: kiwi
+Nombre Producto 2: platano
+Similitud (0 a 1): 1
+	Output: Similitud establecida exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: fresa
+Precio del producto: 7
+	Output: Producto añadido exitosamente.
+
+Opción 19: Establecer Similitud entre Productos
+Nombre Producto 1: kiwi
+Nombre Producto 2: fresa
+Similitud (0 a 1): 0.01
+	Output: Similitud establecida exitosamente.
+
+Opción 20: Obtener Similitud entre Productos
+Nombre Producto 1: platano
+Nombre Producto 2: kiwi
+	Output: Similitud: 1.0
+
+Opción 20: Obtener Similitud entre Productos
+Nombre Producto 1: kiwi
+Nombre Producto 2: fresa
+	Output: Similitud: 0.01
+
+Opción 21: Eliminar Similitud entre Productos
+Nombre Producto 1: kiwi
+Nombre Producto 2: platano
+	Output: Similitud eliminada exitosamente.
+
+Opción: 20
+Nombre Producto 1: platano
+Nombre Producto 2: kiwi
+	Output: Similitud: 0.0
+
+
+
+
+
+
+
+
+
+Juego de Prueba CtrlDomainDriver(Gestión de Estanterías):
+
+Opción 1: Registrar Usuario
+Nombre completo: Usuario1
+Nombre de Usuario: usuario1
+Contraseña: usu1
+	Output: Usuario registrado exitosamente.
+
+Opción 2: Iniciar Sesión de Usuario
+Nombre de Usuario: usuari1
+Contraseña: usu1
+	Output: Inicio de sesión exitoso.
+
+Opción 14: Crear Estantería
+Nombre de la estantería: estanteria1
+	Output: Estantería creada exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: naranja
+Precio del producto: 2
+	Output: Producto añadido exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: uva
+Precio del producto: 1
+	Output: Producto añadido exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: granada
+Precio del producto: 5
+	Output: Producto añadido exitosamente.
+
+Opción 15: Añadir Producto a Estantería
+Nombre de la estantería: estanteria1
+ID del producto: 2
+	Output: Producto añadido a la estantería.
+
+Opción 15: Añadir Producto a Estantería
+Nombre de la estantería: estanteria1
+ID del producto: 3
+	Output: Producto añadido a la estantería.
+
+Opción 18: Obtener Productos de una Estantería
+Nombre de la estantería: estanteria1
+	Output: Productos en la estantería 'estanteria1': [2, 3]
+
+Opción 16: Eliminar Producto de Estantería
+Nombre de la estantería: estanteria1
+ID del producto: 2
+	Output: Producto eliminado de la estantería.
+
+Opción 15: Añadir Producto a Estantería
+Nombre de la estantería: estanteria1
+ID del producto: 1
+	Output: Producto añadido a la estantería.
+
+Opción 18: Obtener Productos de una Estantería
+Nombre de la estantería: estanteria1
+	Output: Productos en la estantería 'estanteria1': [3, 1]
+
+Opción 17: Eliminar Estantería
+Nombre de la estantería a eliminar: estanteria1
+	Output: Estantería eliminada exitosamente.
+
+Opción 18: Obtener Productos de una Estantería
+Nombre de la estantería: estanteria1
+	Output: Error: La estantería 'estanteria1' no se encontró.
+
+Opción 1: Registrar Usuario
+Nombre completo: Usuario6
+Nombre de Usuario: usuario6
+Contraseña: usu6
+Output: Usuario registrado exitosamente.
+
+Opción 2: Iniciar Sesión de Usuario
+Nombre de Usuario: usuario6
+Contraseña: usu6
+Output: Inicio de sesión exitoso.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: papaya
+Precio del producto: 10
+Output: Producto añadido exitosamente.
+
+Opción 14: Crear Estantería
+Nombre de la estantería: exoticas
+Output: Estantería creada exitosamente.
+
+Opción 15: Añadir Producto a Estantería
+Nombre de la estantería: exoticas
+ID del producto: 1
+Output: Producto añadido a la estantería.
+
+Opción 17: Eliminar Estantería
+Nombre de la estantería a eliminar: exoticas
+Output: Estantería eliminada exitosamente.
+
+Opción 18: Obtener Productos de una Estantería
+Nombre de la estantería: exoticas
+Output: Error: La estantería 'exoticas' no se encontró.
+
+
+
+
+
+
+
+
+Juego de Prueba CtrlDomainDriver(Gestión de Productos):
+
+Opción 1: Registrar Usuario
+Nombre completo: Usuario1
+Nombre de Usuario: usuario1
+Contraseña: usu1
+	Output: Usuario registrado exitosamente.
+
+Opción 2: Iniciar Sesión de Usuario
+Nombre de Usuario: usuari1
+Contraseña: usu1
+	Output: Inicio de sesión exitoso.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: manzana
+Precio del producto: 3
+	Output: Producto añadido exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: pera
+Precio del producto: 2
+	Output: Producto añadido exitosamente.
+
+Opción 11: Actualizar Precio de Producto del Usuario
+Nombre del producto: pera
+Nuevo precio: 7
+	Output: Producto actualizado exitosamente.
+
+Opción 12: Obtener Atributos de Producto
+Nombre del producto: pera
+	Output: Producto [ID=2, Nombre=pera, Precio=7]
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: cereza
+Precio del producto: 4
+	Output: Producto añadido exitosamente.
+
+Opción 10: Eliminar Producto del Usuario
+Nombre del producto a eliminar: manzana
+	Output: Producto eliminado exitosamente.
+
+Opción 13: Obtener Ids de Productos del Usuario
+	Output: Productos del usuario: [2, 3]
+
+Juego de Prueba CtrlDomainDriver:
+
+Opción 1: Registrar Usuario
+Nombre completo: usuario1
+Nombre de Usuario: usuario1
+Contraseña: usu1
+	Output: Usuario registrado exitosamente.
+
+Opción 2: Iniciar Sesión de Usuario
+Nombre de Usuario: usuari1
+Contraseña: usu1
+	Output: Inicio de sesión exitoso.
+
+Opción 4: Consultar Usuario Autenticado
+	Output: El usuario autenticado es: 'usuario1'.
+
+Opción 5: Cambiar Nombre de Usuario
+Nombre de usuario actual: usuario1
+Nuevo nombre de usuario: usuario1.1
+	Output: Nombre de usuario cambiado exitosamente.
+
+Opción 7: Verificar Existencia de Usuario
+Nombre de usuario a verificar: usuario1
+	Output: El usuario no existe.
+
+Opción 7: Verificar Existencia de Usuario
+Nombre de usuario a verificar: usuario1.1
+	Output: El usuario existe.
+
+Opción 6: Cambiar Contraseña
+Contraseña actual: usu1
+Nueva contraseña: usu1.1
+	Output: Contraseña cambiada exitosamente.
+
+Opción 8: Ver Detalles del Usuario Autenticado
+	Output: Detalles del usuario autenticado: Nombre: usuario1, Nombre de Usuario: usuario1.1
+
+Opción 3: Cerrar Sesión de Usuario
+	Output: Cierre de sesión exitoso.
+
+Opción 4: Consultar Usuario Autenticado
+	Output: El usuario autenticado es: 'null'.
+
+
+
+
+
+
+
+
+
+Juego de Prueba CtrlDomainDriver (Gestión de Algoritmos):
+
+Opción 1: Registrar Usuario
+Nombre completo: Usuario5
+Nombre de Usuario: usuario5
+Contraseña: usu5
+Output: Usuario registrado exitosamente.
+
+Opción 2: Iniciar Sesión de Usuario
+Nombre de Usuario: usuario5
+Contraseña: usu5
+Output: Inicio de sesión exitoso.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: limon
+Precio del producto: 3
+Output: Producto añadido exitosamente.
+
+Opción 9: Añadir Producto al Usuario
+Nombre del producto: mandarina
+Precio del producto: 5
+Output: Producto añadido exitosamente.
+
+Opción 19: Establecer Similitud entre Productos
+Nombre Producto 1: limon
+Nombre Producto 2: mandarina
+Similitud (0 a 1): 0.8
+Output: Similitud establecida exitosamente.
+
+Opción 22: Organizar Productos y Crear Estantería
+Nombre de la estantería: citricos
+Tipo de Algoritmo: TWO_APPROXIMATION
+Output: Estantería 'citricos' creada con productos organizados.
+
+Opción 18: Obtener Productos de una Estantería
+Nombre de la estantería: citricos
+Output: Productos en la estantería 'citricos': [1, 2]
